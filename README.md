@@ -1,0 +1,1 @@
+This is a mini project with the objective to practice classes and inheritance in python.
